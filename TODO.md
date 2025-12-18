@@ -1,0 +1,3 @@
+- [ ] Update import in TicketController.php from Facade to DNS1D class
+- [ ] Change barcode instantiation in paymentStore method
+- [ ] Change barcode instantiation in paymentPrintPdf method
